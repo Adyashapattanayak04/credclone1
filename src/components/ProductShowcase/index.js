@@ -1,5 +1,5 @@
-import React, { useRef, useState } from "react";
-import { useEffect } from "react/cjs/react.development";
+import React, { useRef, useState, useEffect } from "react";
+
 import "./productShowcase.css";
 
 const ProductShowcase = () => {
